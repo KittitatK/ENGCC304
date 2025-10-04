@@ -56,8 +56,5 @@ int main(){
         }//end for จำนวนเฉพาะ
     }//end for แสดงเลข
 
-    
-    
-
     return 0;
 }

@@ -1,4 +1,3 @@
-
 /*
     จงกรอกหมายเลขทั้งหมดจำนวน 3 ค่า และแสดงผลรวมดังแสดงดังผลลัพธ์ด้านล่าง
     
@@ -12,7 +11,7 @@
     Output:
         Answer = 6
 */
-#include <stdio.h>
+#include <stdio.h>+
 
 int main(){
     int a , b , c;

@@ -102,7 +102,7 @@ int main(){
 
     /*เช็คว่ามีปะรสบการณ์กี่ปีกรณีถ้ามีประสบการณ์มากกว่า 1-3 ปีจะบวกโบนัส 10% , 4-5 +15% ,ถ้ามากกว่า 5 ปี + 20% */
 
-        if (user_year  >= 1 && user_year <= 3){//start if bonus
+        if (user_year  > 1 && user_year <= 3){//start if bonus
             exp_bonus = salary * 10 / 100 ;
             
 
@@ -115,7 +115,7 @@ int main(){
 
         }//end if bonus
 
-//ถ้าโปรเจคมากกว่า 5 งานต่อปีจะ + โบนัสเพิ่ม 5 %
+    //ถ้าโปรเจคมากกว่า 5 งานต่อปีจะ + โบนัสเพิ่ม 5 %
 
     printf("\nNumber of Projects Completed this Year : ");
     scanf("%d", &user_work);

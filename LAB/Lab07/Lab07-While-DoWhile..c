@@ -26,14 +26,14 @@ int main(){
     int Condition = 1 ;
    
 
-    while( Condition ){
+    while( Condition ){//start while condition ถ้าเป็นfalseจะหยุด
      
         /*printf("\nDo you want to play game ( 1 = play , -1 = exit ) :\n"); ถ้า บรรทัด 33-34 อยู่ข้างนอก scanf() ที่กรอกรอบถัดๆไปจะไม่ถูกเรียกใหม่เลยเข้าเงื่อนไขเดิมอีก พิมพ์ “Please enter only 1 or -1” ไม่หยุด
         checknochar = scanf("%d", &user_play);*/
 
         //Buffer = scanf(), getchar(), fgets(),ฯลฯ
             
-        while(1){
+        while(1){//start while ผู้เล่่นต้องการเล่นไหม
             
             printf("\nDo you want to play game ( 1 = play , -1 = exit ) :\n");
             checknochar = scanf("%d", &user_play);
@@ -59,7 +59,7 @@ int main(){
                 break;// ถ้าเลขถูกต้อง( 1 ) ออกจากลูป
             //end if
             
-        }
+        }//stop while ผู้เล่่นต้องการเล่นไหม
     
         
         printf("\n(Score=%d)\n", score_player);
@@ -67,19 +67,19 @@ int main(){
 
 
         
-        do{
-            while(1){
+        do{//start do while
+            while(1){//start while เมื่อค่ายังเป็นจริง
                 printf("\nGuess the winning number (%d - %d) :\n", min, max);
                 checknochar1 = scanf("%d", &user_num);
 
-                if ( user_num < min || user_num > max ){
+                if ( user_num < min || user_num > max ){//start if เช็คว่ามีตัวอักษรไหม
                     printf("\nPlease Enter Bitween ( %d - %d )\n", min, max);
                     while(getchar() != '\n');
                     continue;
-                }
+                }//end if เช็คว่ามีตัวอักษรไหม
                     
 
-                if ( user_num > random_num ){
+                if ( user_num > random_num ){//start if เดาตัวเลข
                                 
                     max = user_num - 1;
                     score_player -= 10;
@@ -105,23 +105,23 @@ int main(){
 
                 }else{
                     printf("error please try again");
-                }
+                }//end if เดาตัวเลข
                         
 
-                if ( score_player == 0 ){
+                if ( score_player == 0 ){//start if คะแนนเป็น 0
                     printf("\n");
                     printf("\nNow your score is  0 \n");
                     printf("You can't play anymore loser\n");
                     printf("\nAnd the correct Answer is : %d", random_num);
                     exit(0);
-                }
+                }//end if คะแนนเป็น 0
 
-            }
+            }//end while ถ้าเป็นจริง
 
-        }while(user_num != random_num);
+        }while(user_num != random_num);//stop do while
     
         
-    }
+    }//start while condition ถ้าเป็นfalseจะหยุด
 
     return 0;
 

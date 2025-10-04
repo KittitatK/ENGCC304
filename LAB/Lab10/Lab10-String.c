@@ -61,7 +61,7 @@ int main(){
     check[i] = '\0';//ใส่ null terminator เพื่อให้มันถูกต้องตามหลักและเวลาใช้ฟังก์ชั่นของstringมันต้องมี\0ปิดท้ายตลอก
     result = strcmp(string , check);//ใช้ เปรียบเทียบ string สองตัวทีละตัวอักษร
 
-        if ( result == 0){
+        if ( result == 0){//ถ้าค่าเหมือนกันทุกตัวจะคืนค่า 0 
             printf("Pass");
         }else{
             printf("Not Pass");

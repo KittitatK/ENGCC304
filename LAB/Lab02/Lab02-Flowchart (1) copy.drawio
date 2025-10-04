@@ -1,0 +1,1026 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="5885" dy="1326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="M7CGMbNuYNeq0SnUNNgH-6" value="ทบทวนสัญลักษณ์" style="swimlane;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-720" y="20" width="640" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="M7CGMbNuYNeq0SnUNNgH-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เริ่มต้น&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="M7CGMbNuYNeq0SnUNNgH-6" vertex="1">
+          <mxGeometry x="20" y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M7CGMbNuYNeq0SnUNNgH-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84.5" y="70" as="sourcePoint" />
+            <mxPoint x="84.5" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M7CGMbNuYNeq0SnUNNgH-3" value="&lt;font face=&quot;Sarabun&quot;&gt;สิ้นสุด&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="M7CGMbNuYNeq0SnUNNgH-6" vertex="1">
+          <mxGeometry x="150" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M7CGMbNuYNeq0SnUNNgH-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214.5" y="40" as="sourcePoint" />
+            <mxPoint x="214.5" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-0" value="กระบวนการ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="M7CGMbNuYNeq0SnUNNgH-6" vertex="1">
+          <mxGeometry x="320" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379" y="40" as="sourcePoint" />
+            <mxPoint x="379.5" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379.75" y="100" as="sourcePoint" />
+            <mxPoint x="380.25" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-3" value="ประโยคเงื่อนไข" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="M7CGMbNuYNeq0SnUNNgH-6" vertex="1">
+          <mxGeometry x="490" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539.71" y="30" as="sourcePoint" />
+            <mxPoint x="540.21" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539.71" y="120" as="sourcePoint" />
+            <mxPoint x="540" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-7" value="จริง" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="mvioNwK95yMqdUQ73LqQ-5" vertex="1" connectable="0">
+          <mxGeometry x="-0.4142" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" source="mvioNwK95yMqdUQ73LqQ-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="95" as="sourcePoint" />
+            <mxPoint x="610" y="175" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-8" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เท็จ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.0019" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-9" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;ฟังก์ชัน/โมดูล&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="M7CGMbNuYNeq0SnUNNgH-6" vertex="1">
+          <mxGeometry x="25" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84.70999999999998" y="150" as="sourcePoint" />
+            <mxPoint x="85.20999999999998" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84.70999999999998" y="210" as="sourcePoint" />
+            <mxPoint x="85.20999999999998" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="M7CGMbNuYNeq0SnUNNgH-6" vertex="1">
+          <mxGeometry x="205" y="185" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214.70999999999998" y="155" as="sourcePoint" />
+            <mxPoint x="215.20999999999998" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" target="mvioNwK95yMqdUQ73LqQ-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189.99999999999997" y="155" as="sourcePoint" />
+            <mxPoint x="190.49999999999997" y="185" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" target="mvioNwK95yMqdUQ73LqQ-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.99999999999997" y="155" as="sourcePoint" />
+            <mxPoint x="240.49999999999997" y="185" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214.70999999999998" y="205" as="sourcePoint" />
+            <mxPoint x="215.20999999999998" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-20" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;ตัวเชื่อม&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="M7CGMbNuYNeq0SnUNNgH-6" vertex="1">
+          <mxGeometry x="220" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="353.71" y="165" as="sourcePoint" />
+            <mxPoint x="354.21" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;" parent="M7CGMbNuYNeq0SnUNNgH-6" vertex="1">
+          <mxGeometry x="339" y="195" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405.71" y="195" as="sourcePoint" />
+            <mxPoint x="406.21" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;" parent="M7CGMbNuYNeq0SnUNNgH-6" vertex="1">
+          <mxGeometry x="391" y="165" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-28" value="หน้าต่อไป" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="M7CGMbNuYNeq0SnUNNgH-6" vertex="1">
+          <mxGeometry x="345" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-29" value="ก" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="M7CGMbNuYNeq0SnUNNgH-6" vertex="1">
+          <mxGeometry x="339" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-30" value="ก" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="M7CGMbNuYNeq0SnUNNgH-6" vertex="1">
+          <mxGeometry x="391" y="160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-32" value="แสดงผล/รับค่า" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="M7CGMbNuYNeq0SnUNNgH-6" vertex="1">
+          <mxGeometry x="450" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="509.71" y="180" as="sourcePoint" />
+            <mxPoint x="510.21" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-34" value="" style="endArrow=classic;html=1;rounded=0;" parent="M7CGMbNuYNeq0SnUNNgH-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="509.71" y="240" as="sourcePoint" />
+            <mxPoint x="510.21" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-36" value="แก้ไขโจทย์ปัญหา" style="swimlane;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fontStyle=0;strokeColor=light-dark(#000000,#FFFFFF);align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-2650" y="650" width="4510" height="4340" as="geometry" />
+        </mxCell>
+        <mxCell id="pYec1UOFLtOStQkseTxR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="mvioNwK95yMqdUQ73LqQ-35" target="pYec1UOFLtOStQkseTxR-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-35" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เริ่มต้น&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2195" y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pYec1UOFLtOStQkseTxR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="pYec1UOFLtOStQkseTxR-0" target="pYec1UOFLtOStQkseTxR-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pYec1UOFLtOStQkseTxR-0" value="แสดงหน้าต่างหลักของตู้ตะพาบลอย" style="rounded=0;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2167.5" y="150" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pYec1UOFLtOStQkseTxR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="pYec1UOFLtOStQkseTxR-1" target="pYec1UOFLtOStQkseTxR-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pYec1UOFLtOStQkseTxR-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2250" y="100" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pYec1UOFLtOStQkseTxR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="pYec1UOFLtOStQkseTxR-4" target="pYec1UOFLtOStQkseTxR-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pYec1UOFLtOStQkseTxR-4" value="มีการตอบสนองผู้ใช้หรือไม่" style="rhombus;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2175" y="250" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pYec1UOFLtOStQkseTxR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="pYec1UOFLtOStQkseTxR-4" target="pYec1UOFLtOStQkseTxR-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2445" y="300" />
+              <mxPoint x="2445" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pYec1UOFLtOStQkseTxR-8" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2395" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="pYec1UOFLtOStQkseTxR-9" target="34suIMCYKuIyu1OqJJue-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pYec1UOFLtOStQkseTxR-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2250" y="380" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pYec1UOFLtOStQkseTxR-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e6d0de;strokeColor=light-dark(#996185,#F7FBFF);gradientColor=#d5739d;" parent="mvioNwK95yMqdUQ73LqQ-36" source="pYec1UOFLtOStQkseTxR-11" target="pYec1UOFLtOStQkseTxR-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pYec1UOFLtOStQkseTxR-11" value="สินค้า&lt;div&gt;น้อยกว่า 5 รายการ/สินค้าหมด&lt;/div&gt;&lt;div&gt;ไหม&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2175" y="815" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-24" target="34suIMCYKuIyu1OqJJue-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-24" value="ตรวจเช็คจำนวนสินค้าภายในตู้" style="rounded=0;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2167.5" y="430" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-28" value="&lt;font face=&quot;Sarabun&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2270" y="360" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-48" value="&lt;font face=&quot;Sarabun&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2125" y="865" as="geometry">
+            <mxPoint x="-6" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#EC8F82);" parent="mvioNwK95yMqdUQ73LqQ-36" source="pYec1UOFLtOStQkseTxR-13" target="34suIMCYKuIyu1OqJJue-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-1" target="34suIMCYKuIyu1OqJJue-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1870" y="855" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#8706FF);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-39" target="34suIMCYKuIyu1OqJJue-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-39" value="เลือกสินค้าได้ตามปกติ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;strokeColor=light-dark(#8706FF,#8706FF);fillColor=light-dark(#9999FF,#9999FF);" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="957" y="450" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-42" value="&lt;font face=&quot;Sarabun&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="1932" y="865" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fad9d5;strokeColor=#ae4132;" parent="mvioNwK95yMqdUQ73LqQ-36" source="pYec1UOFLtOStQkseTxR-13" target="34suIMCYKuIyu1OqJJue-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pYec1UOFLtOStQkseTxR-13" value="สินค้าหมดไหม&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1942" y="825" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.13;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fad9d5;strokeColor=#ae4132;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-49" target="34suIMCYKuIyu1OqJJue-51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2875" y="725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-49" value="บอก n สินค้า น้ำ/ขนม ว่าเหลือกี่ชิ้น(n&amp;lt;=5)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=#fad9d5;strokeColor=#ae4132;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1874.5" y="965" width="235" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-51" target="34suIMCYKuIyu1OqJJue-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-51" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2250" y="970" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="pYec1UOFLtOStQkseTxR-11" target="34suIMCYKuIyu1OqJJue-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-54" value="&lt;font face=&quot;Sarabun&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2270" y="940" as="geometry">
+            <mxPoint x="-6" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-56" target="pYec1UOFLtOStQkseTxR-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-56" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;u style=&quot;background-color: transparent; text-wrap-mode: nowrap; font-size: 14px; color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;ประเภทน้ำ&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;- โค้ก กระป๋องละ 10 บาท มี n กระป๋อง&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve; color: rgb(63, 63, 63);&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve; color: rgb(63, 63, 63);&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve; color: rgb(63, 63, 63);&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve; color: rgb(63, 63, 63);&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;- น้ำเขียว กระป๋องละ 12 บาท มี n ขวด/กระป๋อง&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve; color: rgb(63, 63, 63);&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve; color: rgb(63, 63, 63);&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;- อเมริกาโน่ 30 บาท มี n กระป๋อง&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve; color: rgb(63, 63, 63);&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve; color: rgb(63, 63, 63);&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve; color: rgb(63, 63, 63);&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve; color: rgb(63, 63, 63);&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&lt;font&gt;-&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-wrap-mode: nowrap; font-size: 14px; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;ลาเต้ หวานเจี๊ยบ 35 บาท มี n กระป๋อง&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;u style=&quot;color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;ประเภทข&lt;/span&gt;นม&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;- เมล็ดทานตะวัน 13 บาท มี n ถุง&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;- ถั่วแปบ 20 บาท มี n ถุง&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;- จิ้นส้มหมก 15 บาท มี n ห่อ&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;align=center;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2060" y="560" width="400" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-62" target="34suIMCYKuIyu1OqJJue-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-62" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2495" y="625" width="25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-65" value="ประเภทน้ำ&amp;nbsp;&lt;div&gt;- โค้ก กระป๋องละ 10 บาท มี 30 กระป๋อง&amp;nbsp;&lt;/div&gt;&lt;div&gt;- น้ำเขียว กระป๋องละ 12 บาท มี 30 ขวด/กระป๋อง&amp;nbsp;&lt;/div&gt;&lt;div&gt;- อเมริกาโน่ 30 บาท มี 30 กระป๋อง&amp;nbsp;&lt;/div&gt;&lt;div&gt;- ลาเต้ หวานเจี๊ยบ 35 บาท มี 30 กระป๋อง&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;ประเภทขนม&amp;nbsp;&lt;/div&gt;&lt;div&gt;- เมล็ดทานตะวัน 13 บาท มี 30 ถุง&amp;nbsp;&lt;/div&gt;&lt;div&gt;- ถั่วแปบ 20 บาท มี 20 ถุง&amp;nbsp;&lt;/div&gt;&lt;div&gt;- จิ้นส้มหมก 15 บาท มี 5 ห่อ&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2535" y="580" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-71" target="34suIMCYKuIyu1OqJJue-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-71" value="แสดงหน้าเมนูรายการสินค้าต่างๆ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2175" y="1040" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#fad7ac;strokeColor=#b46504;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-3" target="34suIMCYKuIyu1OqJJue-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1812" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-3" target="34suIMCYKuIyu1OqJJue-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1812" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#8706FF,#8706FF);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-23" target="34suIMCYKuIyu1OqJJue-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#8706FF,#8706FF);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-23" target="34suIMCYKuIyu1OqJJue-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1135" y="700" />
+              <mxPoint x="1880" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-98" target="34suIMCYKuIyu1OqJJue-320" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2370" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-98" target="34suIMCYKuIyu1OqJJue-317" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2125" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-98" value="รายการที่เลือก" style="rhombus;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2220" y="1190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-101" target="34suIMCYKuIyu1OqJJue-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-101" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2246.25" y="1351" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-105" target="34suIMCYKuIyu1OqJJue-125" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1405" y="1400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="935" y="1460" />
+              <mxPoint x="935" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-105" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2256.25" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-105" value="ลูกค้าเลือกสินค้าประเภทอื่นอีกหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2196.25" y="1410" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-106" value="n-1 กระป๋อง/ขวดของรายการน้ำ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1950" y="1280" width="175" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-107" value="n-1 ถุง/ห่อของรายการขนม" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2395" y="1280" width="175" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-102" target="34suIMCYKuIyu1OqJJue-98" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2260" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-102" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2250" y="1130" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-106" target="34suIMCYKuIyu1OqJJue-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-107" target="34suIMCYKuIyu1OqJJue-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-119" value="&lt;font face=&quot;Sarabun&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="1998.75" y="931" as="geometry">
+            <mxPoint x="-6" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-120" value="&lt;font face=&quot;Sarabun&quot;&gt;น้ำ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2185" y="1230" as="geometry">
+            <mxPoint x="-6" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-121" value="&lt;font face=&quot;Sarabun&quot;&gt;ขนม&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2345" y="1230" as="geometry">
+            <mxPoint x="-6" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-125" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1012" y="380" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-125" target="pYec1UOFLtOStQkseTxR-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-129" value="&lt;font face=&quot;Sarabun&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2109.5" y="1460" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-133" target="34suIMCYKuIyu1OqJJue-213" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZhuZ2WAfyG-MTg1eO4O-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#B181A0);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-133" target="34suIMCYKuIyu1OqJJue-137" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-133" value="ลูกค้าต้องการแก้ไขสินค้าหรือไม่" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2196.8900000000003" y="1722.5" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffcccc;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" target="34suIMCYKuIyu1OqJJue-162" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2885" y="2025" as="targetPoint" />
+            <mxPoint x="2845.999999999999" y="1822.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2846" y="1968" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffcccc;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" target="34suIMCYKuIyu1OqJJue-161" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2845.999999999999" y="1722.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2846" y="1575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-137" value="ต้องการเพิ่ม/ลด&lt;div&gt;จำนวนสินค้า&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2786" y="1722.5" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-147" value="&lt;font face=&quot;Sarabun&quot;&gt;เพิ่ม&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2846" y="1689" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-148" value="&lt;font face=&quot;Sarabun&quot;&gt;ลด&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2846" y="1897.5" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-149" target="34suIMCYKuIyu1OqJJue-153" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-149" target="34suIMCYKuIyu1OqJJue-154" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-149" value="น้ำ หรือ ขนม" style="rhombus;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="3153.5" y="1917.5" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-150" target="34suIMCYKuIyu1OqJJue-155" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-150" target="34suIMCYKuIyu1OqJJue-156" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-150" value="น้ำ หรือ ขนม" style="rhombus;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="3153.5" y="1525" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-153" value="n + 1 น้ำ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="3273.5" y="1837.5" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-154" value="n + 1 ขนม" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="3273.5" y="2037.5" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-156" value="n - 1 ขนม" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="3273.5" y="1650" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-155" value="n - 1 น้ำ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="3273.5" y="1440" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffcccc;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-161" target="34suIMCYKuIyu1OqJJue-150" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-161" value="สินค้าประเภท" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2985" y="1545" width="121" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#cce5ff;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-162" target="34suIMCYKuIyu1OqJJue-149" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-162" value="สินค้าประเภท" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2985" y="1937.5" width="121" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-163" value="&lt;font face=&quot;Sarabun&quot;&gt;น้ำ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="3213.5" y="1897.5" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-164" value="&lt;font face=&quot;Sarabun&quot;&gt;น้ำ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="3213.5" y="1500" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-165" value="&lt;font face=&quot;Sarabun&quot;&gt;ขนม&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="3213.5" y="2037.5" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-166" value="&lt;font face=&quot;Sarabun&quot;&gt;ขนม&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="3213.5" y="1650" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-196" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-168" target="34suIMCYKuIyu1OqJJue-195" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-168" value="แสดงรายการสินค้า/จำนวนเงินที่ต้องจ่าย" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2126.25" y="1925" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-169" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="3485" y="1565" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-170" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="3485" y="1957.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-171" target="34suIMCYKuIyu1OqJJue-178" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3665" y="1620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3645" y="1816" />
+              <mxPoint x="3645" y="1260" />
+              <mxPoint x="2735" y="1260" />
+              <mxPoint x="2735" y="1570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-171" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="3605" y="1807.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-155" target="34suIMCYKuIyu1OqJJue-169" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-156" target="34suIMCYKuIyu1OqJJue-169" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-153" target="34suIMCYKuIyu1OqJJue-170" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-154" target="34suIMCYKuIyu1OqJJue-170" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-170" target="34suIMCYKuIyu1OqJJue-171" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-169" target="34suIMCYKuIyu1OqJJue-171" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZhuZ2WAfyG-MTg1eO4O-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#996185,#B181A0);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-178" target="zZhuZ2WAfyG-MTg1eO4O-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-178" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2246.25" y="1560" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-180" value="&lt;font face=&quot;Sarabun&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2256.25" y="1533" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=light-dark(#6C8EBF,#7CABE4);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-195" target="34suIMCYKuIyu1OqJJue-198" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZhuZ2WAfyG-MTg1eO4O-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#6C8EBF,#7CABE4);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-195" target="zZhuZ2WAfyG-MTg1eO4O-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-195" value="ลูกค้าต้องการยกเลิกรายการหรือไม่" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2196.25" y="1982.5" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=light-dark(#6C8EBF,#7CABE4);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-198" target="34suIMCYKuIyu1OqJJue-201" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-198" value="ให้ลูกค้ากดยืนยันซื้อสินค้า" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2168.75" y="2130" width="175" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-217" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=light-dark(#6C8EBF,#7CABE4);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-201" target="34suIMCYKuIyu1OqJJue-216" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-201" value="แสดงจำนวนเงินที่ต้องจ่าย" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2126.25" y="2210" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#D79B00,#FFFF33);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-208" target="ZNgGh1hi2rqg53yYbfpz-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-208" value="รับเงินจากลูกค้า" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=light-dark(#FFE6CC,#666600);gradientColor=none;strokeColor=light-dark(#D79B00,#FFFF33);" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2170" y="2720" width="175" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-215" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-213" target="34suIMCYKuIyu1OqJJue-168" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-213" value="คำนวณราคาสินค้าที่เลือกทั้งหมด" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2153.13" y="1862.5" width="206.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#6C8EBF,#7CABE4);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-216" target="ZNgGh1hi2rqg53yYbfpz-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-216" value="รับเฉพาะเงิน(บาท)&lt;div&gt;-แบงค์ 100 ,50 ,20&lt;/div&gt;&lt;div&gt;-เหรียญ 1 ,2 ,5 ,10&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6C8EBF;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2168.75" y="2280" width="175" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-225" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="mvioNwK95yMqdUQ73LqQ-36" target="34suIMCYKuIyu1OqJJue-224" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2257.666666666667" y="3078.8611111111113" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-219" value="ต้องทอนเงินไหม" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2197.5" y="2978" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-227" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-224" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2255" y="3319" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-224" target="34suIMCYKuIyu1OqJJue-230" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-224" value="เช็คจำนวนเงินในตู้ว่ามีพอทอนให้ลูกค้าไหม" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2183.76" y="3129" width="145" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-229" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="mvioNwK95yMqdUQ73LqQ-36" target="34suIMCYKuIyu1OqJJue-228" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2255" y="3369" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-200" value="&lt;font face=&quot;Sarabun&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2260" y="2100" as="geometry">
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-242" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-228" target="34suIMCYKuIyu1OqJJue-241" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-228" value="ทอนเงินให้ลูกค้าตามที่คำนวณ" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2125" y="3409" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-239" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-230" target="34suIMCYKuIyu1OqJJue-238" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-230" value="เด้งข้อความขอโทษลูกค้า&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ว่าเงินทอนไม่พอ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1798" y="3161.5" width="244.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="zZhuZ2WAfyG-MTg1eO4O-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#996500,#996500);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-234" target="zZhuZ2WAfyG-MTg1eO4O-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-234" value="ลูกค้าต้องการแก้ไขสินค้าหรือยกเลิก" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFCD28;gradientColor=#ffa500;strokeColor=#D79B00;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1240" y="3149" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-234" target="34suIMCYKuIyu1OqJJue-178" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1300" y="1570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-240" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-238" target="34suIMCYKuIyu1OqJJue-234" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-238" value="ขึ้นหน้าจอให้ลูกค้าเลือกจะแก้ไขหรือยกเลิกสินค้า" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1420" y="3161.5" width="272" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-253" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-241" target="34suIMCYKuIyu1OqJJue-246" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-241" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2245" y="3479" width="20" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-243" value="&lt;font face=&quot;Sarabun&quot;&gt;สิ้นสุด&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2190.3900000000003" y="4164" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-257" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-244" target="34suIMCYKuIyu1OqJJue-245" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-244" value="แสดงหน้าขอบคุณลูกค้า" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2195.38" y="4024" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-250" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-245" target="34suIMCYKuIyu1OqJJue-243" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-245" value="กลับมาหน้าหลักดังเดิม" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2195.3900000000003" y="4094" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-246" target="ZNgGh1hi2rqg53yYbfpz-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-246" value="เอาของให้ลูกค้าตามจำนวนที่สั่ง" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2191.26" y="3549" width="126.26" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="mvioNwK95yMqdUQ73LqQ-36" target="34suIMCYKuIyu1OqJJue-241" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2530" y="3029" />
+              <mxPoint x="2530" y="3489" />
+            </Array>
+            <mxPoint x="2317.499999999999" y="3029.000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-258" value="&lt;font face=&quot;Sarabun&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2110" y="3199" as="geometry">
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-272" value="&lt;font face=&quot;Sarabun&quot;&gt;แก้ไขสินค้า&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="1310" y="3119" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-252" value="&lt;font face=&quot;Sarabun&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2420" y="3029" as="geometry">
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-10" target="34suIMCYKuIyu1OqJJue-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-10" value="น้ำ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1582" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-11" target="34suIMCYKuIyu1OqJJue-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-11" value="ขนม" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1582" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-12" value="" style="edgeStyle=none;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-13" target="34suIMCYKuIyu1OqJJue-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-298" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-13" target="34suIMCYKuIyu1OqJJue-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-13" value="ขึ้นรายการบอกสินค้าหมด" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1432" y="785" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-14" value="ไม่ให้เลือกสินค้า" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1282" y="785" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-15" value="" style="edgeStyle=none;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-16" target="34suIMCYKuIyu1OqJJue-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-16" value="ขึ้นรายการบอกสินค้าหมด" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=#fad7ac;strokeColor=#b46504;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1432" y="915" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-17" value="ไม่ให้เลือกสินค้า" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=#fad7ac;strokeColor=#b46504;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1282" y="915" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-20" target="34suIMCYKuIyu1OqJJue-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1232" y="850" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-14" target="34suIMCYKuIyu1OqJJue-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fad7ac;strokeColor=#b46504;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-17" target="34suIMCYKuIyu1OqJJue-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-97" value="&lt;font face=&quot;Sarabun&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="1133" y="773" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-3" value="&lt;div&gt;ประเภท&lt;/div&gt;น้ำหรือขนม" style="rhombus;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1755" y="825" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-68" value="&lt;font face=&quot;Sarabun&quot;&gt;น้ำ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="1798" y="798" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-69" value="&lt;font face=&quot;Sarabun&quot;&gt;ขนม&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="1795" y="935" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-32" value="&lt;font face=&quot;Sarabun&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="1022" y="800" as="geometry">
+            <mxPoint x="-3" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-23" value="เติมสต๊อกสินค้าหรือยัง" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#9999FF,#9999FF);strokeColor=light-dark(#8706FF,#8706FF);" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1087" y="815" width="95" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-282" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#D79B00,#FFFF33);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-276" target="34suIMCYKuIyu1OqJJue-280" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-276" value="ลูกค้านำเงินเข้าตู้หรือยัง" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFE6CC,#666600);strokeColor=light-dark(#D79B00,#FFFF33);" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2188.75" y="2480" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-283" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#D79B00,#FFFF33);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-280" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1865" y="2530.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-280" value="รอลูกค้า 5 นาที" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=light-dark(#FFE6CC,#666600);gradientColor=none;strokeColor=light-dark(#D79B00,#FFFF33);" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1911.25" y="2502.5" width="175" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-286" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#D79B00,#FFFF33);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-284" target="34suIMCYKuIyu1OqJJue-285" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-284" value="ลูกค้ามีการนำเงินเข้าไหม" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFE6CC,#666600);strokeColor=light-dark(#D79B00,#FFFF33);" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1727.5" y="2480" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-285" value="กลับไปหน้าหลัก" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=light-dark(#FFE6CC,#666600);gradientColor=none;strokeColor=light-dark(#D79B00,#FFFF33);" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1440" y="2502.5" width="175" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#D79B00,#FFFF33);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-285" target="34suIMCYKuIyu1OqJJue-125" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="2530" />
+              <mxPoint x="920" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-295" value="&lt;font face=&quot;Sarabun&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2153.13" y="2530" as="geometry">
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#9577A3,#9577A3);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-300" target="34suIMCYKuIyu1OqJJue-125" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="3888" />
+              <mxPoint x="880" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-300" value="ลูกค้าต้องการซื้อของเพิ่มไหม" style="rhombus;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2182.89" y="3833" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2255.3899999999994" y="3944" as="sourcePoint" />
+            <mxPoint x="2255.3899999999994" y="3944" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-310" target="34suIMCYKuIyu1OqJJue-244" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-310" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2245.3900000000003" y="3986" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#996500,#996500);" parent="mvioNwK95yMqdUQ73LqQ-36" source="zZhuZ2WAfyG-MTg1eO4O-0" target="34suIMCYKuIyu1OqJJue-310" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1300" y="3996" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#9577A3);" parent="mvioNwK95yMqdUQ73LqQ-36" target="34suIMCYKuIyu1OqJJue-310" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2255.3900000000003" y="3943.999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-319" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-317" target="34suIMCYKuIyu1OqJJue-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-317" value="&lt;span style=&quot;font-family: Sarabun;&quot;&gt;ประเภท&lt;/span&gt;&lt;span style=&quot;font-family: Sarabun; background-color: transparent;&quot;&gt;น้ำ&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=light-dark(#FF3333,#FF3333);" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1950" y="1210" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-320" target="34suIMCYKuIyu1OqJJue-107" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-320" value="&lt;span style=&quot;font-family: Sarabun;&quot;&gt;ประเภทขนม&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=light-dark(#FF3333,#FF3333);" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2395" y="1210" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=light-dark(#D79B00,#FFFF33);" parent="mvioNwK95yMqdUQ73LqQ-36" source="ZNgGh1hi2rqg53yYbfpz-0" target="34suIMCYKuIyu1OqJJue-208" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-0" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2247.5" y="2630" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#D79B00,#FFFF33);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-276" target="ZNgGh1hi2rqg53yYbfpz-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#D79B00,#FFFF33);" parent="mvioNwK95yMqdUQ73LqQ-36" source="34suIMCYKuIyu1OqJJue-284" target="ZNgGh1hi2rqg53yYbfpz-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-3" value="&lt;font face=&quot;Sarabun&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="1677" y="2530" as="geometry">
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="ZNgGh1hi2rqg53yYbfpz-6" target="34suIMCYKuIyu1OqJJue-276" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2246.26" y="2390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="ZNgGh1hi2rqg53yYbfpz-8" target="34suIMCYKuIyu1OqJJue-219" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#D79B00,#FFFF33);" parent="mvioNwK95yMqdUQ73LqQ-36" source="ZNgGh1hi2rqg53yYbfpz-8" target="34suIMCYKuIyu1OqJJue-219" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-8" value="เงินครบ/เกินจำนวนไหม" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFE6CC,#666600);strokeColor=light-dark(#D79B00,#FFFF33);" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2189.39" y="2810" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#D79B00,#FFFF33);" parent="mvioNwK95yMqdUQ73LqQ-36" source="ZNgGh1hi2rqg53yYbfpz-8" target="ZNgGh1hi2rqg53yYbfpz-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2490" y="2860" />
+              <mxPoint x="2490" y="2400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-13" value="&lt;font face=&quot;Sarabun&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2385" y="2857" as="geometry">
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="ZNgGh1hi2rqg53yYbfpz-19" target="ZNgGh1hi2rqg53yYbfpz-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-19" value="รวมยอดขาย" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2191.8700000000003" y="3620" width="126.26" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="ZNgGh1hi2rqg53yYbfpz-21" target="34suIMCYKuIyu1OqJJue-300" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-21" value="สรุปว่าเหลือเงินในตู้อีกเท่าไหร่ เหลือเหรียญและธนบัตร์อะไรบ้าง อย่างละเท่าไหร่" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2170" y="3700" width="171.26" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zZhuZ2WAfyG-MTg1eO4O-0" value="ยกเลิกรายการสินค้า" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCD28,#6A3F00);gradientColor=light-dark(#FFA500,#A05300);strokeColor=light-dark(#D79B00,#996500);" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1240" y="3580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZhuZ2WAfyG-MTg1eO4O-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#996185,#B181A0);" parent="mvioNwK95yMqdUQ73LqQ-36" source="zZhuZ2WAfyG-MTg1eO4O-3" target="34suIMCYKuIyu1OqJJue-133" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZhuZ2WAfyG-MTg1eO4O-3" value="แสดงรายการสินค้า/จำนวนเงินที่ต้องจ่าย" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2126.88" y="1660" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zZhuZ2WAfyG-MTg1eO4O-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#996185,#B181A0);" parent="mvioNwK95yMqdUQ73LqQ-36" source="zZhuZ2WAfyG-MTg1eO4O-4" target="zZhuZ2WAfyG-MTg1eO4O-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZhuZ2WAfyG-MTg1eO4O-4" value="คำนวณราคาสินค้าที่เลือกทั้งหมด" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2153.7599999999998" y="1610" width="206.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zZhuZ2WAfyG-MTg1eO4O-13" value="&lt;font face=&quot;Sarabun&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2254.39" y="1837.5" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZhuZ2WAfyG-MTg1eO4O-18" value="รับเฉพาะเงิน(บาท)&lt;div&gt;-แบงค์ 100 ,50 ,20&lt;/div&gt;&lt;div&gt;-เหรียญ 1 ,2 ,5 ,10&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6C8EBF;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2650" y="2250" width="175" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="zZhuZ2WAfyG-MTg1eO4O-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#6C8EBF,#7CABE4);" parent="mvioNwK95yMqdUQ73LqQ-36" source="zZhuZ2WAfyG-MTg1eO4O-18" target="34suIMCYKuIyu1OqJJue-310" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZhuZ2WAfyG-MTg1eO4O-22" value="&lt;font face=&quot;Sarabun&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1" connectable="0">
+          <mxGeometry x="2390" y="2032.5" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZhuZ2WAfyG-MTg1eO4O-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="2128.76" y="2280" width="25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZhuZ2WAfyG-MTg1eO4O-26" value="แบงค์มีอย่างละ 100 ใบ&lt;div&gt;เหรียญ มีอย่างละ 100 เหรียญ&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+          <mxGeometry x="1975" y="2285" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qz38oJAvQhvB53wwtwby-0" value="&lt;span style=&quot;font-family: Sarabun;&quot;&gt;คำนวณเงินและเหรียญให้ลูกค้า&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
+          <mxGeometry x="2120" y="3320" width="264.61" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qz38oJAvQhvB53wwtwby-1" value="&lt;span style=&quot;font-family: Sarabun;&quot;&gt;ประเภทขนม&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
+          <mxGeometry x="2395" y="1210" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qz38oJAvQhvB53wwtwby-2" value="&lt;span style=&quot;font-family: Sarabun;&quot;&gt;ประเภท&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Sarabun;&quot;&gt;น้ำ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
+          <mxGeometry x="1950" y="1210" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-70" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;โจทย์ปัญหา&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-720" y="320" width="640" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-71" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot; style=&quot;font-size: 14px;&quot;&gt;จงเขียน Flowchart เพื่อแสดงขั้นตอนการทำงาน ของเครื่องขายน้ำอัตโนมัติที่ชื่อว่า &quot;ตะพาบลอย&quot;&lt;br&gt;โดยจะต้องมีสินค้าดังนี้&lt;br&gt;&lt;u&gt;ประเภทน้ำ&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;ข&lt;/span&gt;นม&lt;/u&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- โค้ก กระป๋องละ 10 บาท&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- เมล็ดทานตะวัน 13 บาท&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- น้ำเขียว กระป๋องละ 12 บาท&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- ถั่วแปบ 20 บาท&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- อเมริกาโน่ 30 บาท&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- จิ้นส้มหมก 15 บาท&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- ลาเต้ หวานเจี๊ยบ 35 บาท&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;สิ่งที่ระบบควรจะทำได้&lt;/u&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- ลูกค้าเลือกสินค้า, ระบบจะต้องรวมยอดขาย และรวมรายการสินค้าทั้งหมดที่ลูกค้าเลือก&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- สรุปยอดว่าเหลือเงินในตู้อีกเท่าไหร่ เหลือเหรียญอะไรบ้าง? ธนบัตรอะไรบ้าง? อย่างละเท่าไหร่?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="mvioNwK95yMqdUQ73LqQ-70" vertex="1">
+          <mxGeometry x="25" y="30" width="580" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-268" value="&lt;font face=&quot;Sarabun&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+          <mxGeometry x="-397" y="3752" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-269" value="&lt;font face=&quot;Sarabun&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+          <mxGeometry x="-397" y="3942" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-297" value="&lt;font face=&quot;Sarabun&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+          <mxGeometry x="-397" y="3253" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-313" value="&lt;font face=&quot;Sarabun&quot;&gt;ยกเลิก&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+          <mxGeometry x="-1337" y="3933" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-315" value="&lt;font face=&quot;Sarabun&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+          <mxGeometry x="-382" y="4614" as="geometry">
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34suIMCYKuIyu1OqJJue-316" value="&lt;font face=&quot;Sarabun&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+          <mxGeometry x="-517" y="4537" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-4" value="&lt;font face=&quot;Sarabun&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+          <mxGeometry x="-857" y="3253" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNgGh1hi2rqg53yYbfpz-15" value="&lt;font face=&quot;Sarabun&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+          <mxGeometry x="-397" y="3593" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZhuZ2WAfyG-MTg1eO4O-12" value="&lt;font face=&quot;Sarabun&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+          <mxGeometry x="-187" y="2423" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
