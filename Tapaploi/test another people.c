@@ -116,3 +116,44 @@ int main(){
         }
     } while (choice < 1 || choice > 7) ;
 }
+
+/*#include <stdio.h>
+#include <stdlib.h>
+
+void countWordsInFile();
+
+int main() {
+    countWordsInFile();
+    return 0;
+}
+
+void countWordsInFile() {
+    char filename[100];
+    char filepath[200];
+    char word[100];
+    FILE *fp;
+    int count = 0;
+
+    // รับชื่อไฟล์จากผู้ใช้
+    printf("Enter file name:\n");
+    scanf("%s", filename);
+
+    // สร้าง path ของไฟล์ (สามารถแก้ path ตามต้องการ)
+    sprintf(filepath, "E:\\dottextfile\\%s", filename);
+
+    // เปิดไฟล์
+    fp = fopen(filepath, "r");
+    if(fp == NULL) {
+        printf("Can't open this file!\n");
+        exit(0);
+    }
+
+    // อ่านคำทีละคำ จนถึง EOF
+    while(fscanf(fp, "%s", word) != EOF) {
+        count++;
+    }
+
+    fclose(fp);
+
+    printf("Total number of words in '%s' : %d words\n", filename, count);
+}*/

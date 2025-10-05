@@ -63,12 +63,15 @@ int main(){
     
         
         printf("\n(Score=%d)\n", score_player);
+        score_player = 100 ;
+        max = 100 ;
+        min = 1 ;
         random_num = rand() % 100 + 1;
-
 
         
         do{//start do while
             while(1){//start while เมื่อค่ายังเป็นจริง
+                
                 printf("\nGuess the winning number (%d - %d) :\n", min, max);
                 checknochar1 = scanf("%d", &user_num);
 
@@ -107,6 +110,7 @@ int main(){
                     printf("error please try again");
                 }//end if เดาตัวเลข
                         
+                
 
                 if ( score_player == 0 ){//start if คะแนนเป็น 0
                     printf("\n");
@@ -116,10 +120,12 @@ int main(){
                     exit(0);
                 }//end if คะแนนเป็น 0
 
+                
             }//end while ถ้าเป็นจริง
+            
 
         }while(user_num != random_num);//stop do while
-    
+           
         
     }//start while condition ถ้าเป็นfalseจะหยุด
 

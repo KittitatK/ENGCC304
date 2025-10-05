@@ -20,14 +20,14 @@ int main (){
 
     S s[4];
 
-    char  i = 0 ;
+    char  i = 0;
     float avg = 0, sum = 0;
 
     for ( i = 1 ; i <= 3 ; i++){//start for รับค่า
         printf("Student %d :\n",i);
 
         printf("Name :\n");
-        scanf("%s",s[i].Name);
+        scanf(" %[^\n]",s[i].Name);
 
         printf("ID :\n");
         scanf("%s",s[i].ID);

@@ -14,13 +14,27 @@
 
 int main(){
     int score = 0;
+    int nochar = 0;
 
+   
     printf("enter score :\n");
-    scanf("%d", &score );
+    if(scanf("%d", &score) != 1) {  // ตรวจสอบว่ากรอกตัวเลข
+        printf("Please enter number only.\n");
 
-    if (score >=80){
+    }else if(score < 0 || score > 100){ // ตรวจสอบช่วงคะแนน
+        printf("Score must be between 0 and 100.\n");
+
+    }
+        
+    
+    if(score < 0 || score > 100 ){
+        printf("Grade : -");
+    }    
+
+    else if (score >=80){
         printf("Grade : A!");
     }
+
     else if (score >= 75 && score < 80){
         printf("Grade : B+!");
     }
